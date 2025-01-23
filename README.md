@@ -31,6 +31,10 @@ Technical Requirements:-
 
 Steps to run the code :-
 
+1) Initialise NPM
+2) Install the necessary packages i.e, express, body-parser, method-override, ejs-mate etc.,
+3) Install Nodemon to start and stop the server automatically.
+4) Run the app.js file.
 
 
 
